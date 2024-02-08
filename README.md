@@ -36,4 +36,4 @@ Este é um projeto desenvolvido em Java com Spring Boot, PostgreSQL como banco d
 - Os alunos podem se cadastrar, fazer login, realizar provas e obter certificados através da interface web.
 
 ## Autor
-[Seu Nome](https://github.com/carlospepato)
+[Carlos Pepato](https://github.com/carlospepato)
